@@ -1,0 +1,30 @@
+amixer cset name="DAC1 MIXL DAC1 Switch" 1
+amixer cset name="DAC1 MIXR DAC1 Switch" 1
+amixer cset name="DAC L1 Source" "DAC1"
+amixer cset name="DAC R1 Source" "DAC1"
+amixer cset name="HPOL Playback Switch" 1
+amixer cset name="HPOR Playback Switch" 1
+
+amixer cset name="RECMIX1L CBJ Switch" 1
+amixer cset name="Stereo1 ADC L Mux" "ADC1 L"
+amixer cset name="Stereo1 ADC R Mux" "ADC1 L"
+amixer cset name="Stereo1 ADC L1 Mux" "ADC"
+amixer cset name="Stereo1 ADC R1 Mux" "ADC"
+amixer cset name="Stereo1 ADC MIXL ADC1 Switch" 1
+amixer cset name="Stereo1 ADC MIXR ADC1 Switch" 1
+
+amixer cset name="Pin10-Port0 Mux" 1
+amixer cset name="Pin10-Port1 Mux" 1
+amixer cset name="Pin10-Port2 Mux" 1
+amixer cset name="Pin11-Port0 Mux" 1
+amixer cset name="Pin11-Port1 Mux" 1
+amixer cset name="Pin11-Port2 Mux" 1
+amixer cset name="Pin4-Port0 Mux" 1
+amixer cset name="Pin4-Port1 Mux" 1
+amixer cset name="Pin4-Port2 Mux" 1
+amixer cset name="Pin6-Port0 Mux" 1
+amixer cset name="Pin6-Port1 Mux" 1
+amixer cset name="Pin6-Port2 Mux" 1
+amixer cset name="Pin8-Port0 Mux" 1
+amixer cset name="Pin8-Port1 Mux" 1
+amixer cset name="Pin8-Port2 Mux" 1
